@@ -67,4 +67,4 @@ client.on('message', async message =>{
     }
 });
 
-client.login('ODEwOTY1Mjg5MDUwODMyOTc3.YCrURw.RQVEo_XKh9TXu0gBkVzwH0Cuhtw')
+client.login('YourToken')
